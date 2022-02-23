@@ -1,0 +1,3 @@
+Camping
+Fishing
+Hiking
